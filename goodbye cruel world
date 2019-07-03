@@ -1,0 +1,10 @@
+// 'goodbye cruel world' program 
+ 
+#include <iostream>
+ 
+int main()
+{
+  std::cout << "Goodbye and good riddance, cruel world!" << std::endl;
+  return 0;
+}
+
